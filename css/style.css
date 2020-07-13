@@ -4,11 +4,9 @@ img {
   width: 500px;
 }
 body {
-  background-color: green;
+  background-color: skyblue;
 }
  p {
   font-family: sans-serif;
-}
-ul {
-  line-height: 40px;
+  font-size: 30px;
 }
